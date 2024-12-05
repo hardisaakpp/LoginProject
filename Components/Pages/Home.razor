@@ -1,0 +1,58 @@
+﻿@page "/"
+@using LogBlazorWebApp.Client.Models
+@inject HttpClient Http
+@inject NavigationManager Navigation
+@inject IJSRuntime JS
+
+<PageTitle>Login</PageTitle>
+
+<div class="home-container">
+    <h3 class="home-title">Iniciar Sesión</h3>
+
+    <EditForm Model="@loginModel" OnValidSubmit="HandleValidSubmit" FormName="loginForm">
+        <DataAnnotationsValidator />
+        <ValidationSummary />
+
+        <div class="mb-3">
+            <label for="email" class="home-form-label">Correo Electrónico</label>
+            <InputText id="email" class="home-form-control" @bind-Value="loginModel.Email" />
+            <ValidationMessage For="@(() => loginModel.Email)" />
+        </div>
+
+        <div class="mb-3">
+            <label for="password" class="home-form-label">Contraseña</label>
+            <InputText id="password" type="password" class="home-form-control" @bind-Value="loginModel.Password" />
+            <ValidationMessage For="@(() => loginModel.Password)" />
+        </div>
+
+        <button type="submit" class="home-btn-primary">Iniciar Sesión</button>
+    </EditForm>
+
+    @if (!string.IsNullOrEmpty(errorMessage))
+    {
+        <div class="home-alert mt-3">@errorMessage</div>
+    }
+</div>
+
+@code {
+    private LoginModel loginModel = new LoginModel();
+    private string errorMessage;
+
+    private async Task HandleValidSubmit()
+    {
+        errorMessage = string.Empty;
+
+        var response = await Http.PostAsJsonAsync("api/auth/login", loginModel);
+
+        if (response.IsSuccessStatusCode)
+        {
+            var token = await response.Content.ReadAsStringAsync();
+            await JS.InvokeVoidAsync("localStorage.setItem", "authToken", token);
+            Navigation.NavigateTo("/dashboard");
+        }
+        else
+        {
+            errorMessage = "Correo electrónico o contraseña incorrectos.";
+        }
+    }
+}

@@ -1,0 +1,456 @@
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/LogBlazorWebApp.Client.staticwebassets.runtime.json
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/LogBlazorWebApp.Client.staticwebassets.endpoints.json
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/appsettings.Development.json
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/appsettings.json
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/BlazorDebugProxy/BrowserDebugHost.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/BlazorDebugProxy/BrowserDebugHost.runtimeconfig.json
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/BlazorDebugProxy/BrowserDebugProxy.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/BlazorDebugProxy/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/BlazorDebugProxy/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/BlazorDebugProxy/Microsoft.CodeAnalysis.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/BlazorDebugProxy/Microsoft.CodeAnalysis.Scripting.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/BlazorDebugProxy/Microsoft.FileFormats.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/BlazorDebugProxy/Microsoft.NET.WebAssembly.Webcil.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/BlazorDebugProxy/Microsoft.SymbolStore.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/BlazorDebugProxy/Newtonsoft.Json.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/LogBlazorWebApp.staticwebassets.runtime.json
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/LogBlazorWebApp.staticwebassets.endpoints.json
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/LogBlazorWebApp.exe
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/LogBlazorWebApp.deps.json
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/LogBlazorWebApp.runtimeconfig.json
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/LogBlazorWebApp.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/LogBlazorWebApp.pdb
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Azure.Core.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Azure.Identity.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.AspNetCore.Components.WebAssembly.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.Data.SqlClient.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.FluentUI.AspNetCore.Components.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.FluentUI.AspNetCore.Components.Emoji.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.FluentUI.AspNetCore.Components.Icons.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.Identity.Client.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.JSInterop.WebAssembly.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.SqlServer.Server.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/System.ClientModel.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/System.Configuration.ConfigurationManager.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/System.Drawing.Common.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/System.Memory.Data.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/System.Runtime.Caching.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/System.Security.Permissions.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/System.Windows.Extensions.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/LogBlazorWebApp.Client.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/LogBlazorWebApp.Client.pdb
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/LogBlazorWebApp.csproj.AssemblyReference.cache
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/LogBlazorWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/LogBlazorWebApp.AssemblyInfoInputs.cache
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/LogBlazorWebApp.AssemblyInfo.cs
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/LogBlazorWebApp.csproj.CoreCompileInputs.cache
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/LogBlazorWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/jsmodules/jsmodules.build.manifest.json
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/scopedcss/Components/Layout/MainLayout.razor.rz.scp.css
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/scopedcss/bundle/LogBlazorWebApp.styles.css
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/scopedcss/projectbundle/LogBlazorWebApp.bundle.scp.css
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/cdrmjjq1d6-dpoev2zj9b.gz
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/twd6d0wh4o-60czas7noz.gz
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/akzl5bxou0-p6kf5zqzit.gz
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/cq4bmj8gmb-zjzit57lox.gz
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/klh9ieqob8-xclpawj53c.gz
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/4jvn6qpxj5-u93i13xew3.gz
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/7g337ulk4n-iy34mpf72d.gz
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/6mwvvlkmgj-hi1gwvth64.gz
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/pfc9to5k3q-5pcucyxosc.gz
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/h0qxm5u0yy-01uvncfd48.gz
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/win2gt64sq-pu9hn1jugj.gz
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/ijuf810ucb-xp2f0e0rh3.gz
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/6o9gthdpke-psptt994gq.gz
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/tb98bamshq-g9dxtzlran.gz
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/ffdjjohsnc-mmp1yy7un5.gz
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/pn46o4hdgm-5wrroj4j54.gz
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/4sjayj892b-9fmja7pljs.gz
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/mm8wr5jb95-rgycuwl3sw.gz
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/wmgko3ir4p-kjm33rwg1a.gz
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/jq2jihf5fr-awzanx0pu8.gz
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/uslingtyva-rkj8st4k2x.gz
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/2b4v2q74ar-0b0bj86z40.gz
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/5eye7ha8pe-e5lgg05xwp.gz
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/fiqznfocyn-ki10xp5gks.gz
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/5dcvuemm5a-s9hcthfn4x.gz
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/sc7iw8bo2n-idf8r2y2gj.gz
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/sbcuig79xm-uxxx5b63uj.gz
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/is0nail857-b0dyrub9as.gz
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/6nn42apl8y-1dlotxxwer.gz
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/m1yjzwotev-f8c5bd5212.gz
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/ruk4ibgzyp-t5s4sbrbsi.gz
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/kwrall9b0s-wzv0u97glo.gz
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/m3ffqup1h6-kz8gc8cxma.gz
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/3emkb5z5ma-1cf9i7un7b.gz
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/tilk376lqw-uhfllo7vmv.gz
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/2eo5x2mpjh-dwk6czdzfo.gz
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/033ahy0yvg-dwmiqe3y5d.gz
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/1gz8alihoq-ohux0fpb2d.gz
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/staticwebassets.build.json
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/staticwebassets.development.json
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/staticwebassets/msbuild.LogBlazorWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/staticwebassets/msbuild.LogBlazorWebApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/staticwebassets/msbuild.build.LogBlazorWebApp.props
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.LogBlazorWebApp.props
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.LogBlazorWebApp.props
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/staticwebassets.pack.json
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/LogBlazo.86D625A0.Up2Date
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/LogBlazorWebApp.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/refint/LogBlazorWebApp.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/LogBlazorWebApp.pdb
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/LogBlazorWebApp.genruntimeconfig.cache
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/ref/LogBlazorWebApp.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/4ndlbt3jd2-8d35l6r5r9.gz
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/Humanizer.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/Microsoft.Build.Locator.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/Mono.TextTemplating.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/System.CodeDom.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/System.Composition.Convention.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/System.Composition.Hosting.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/System.Composition.Runtime.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/System.Composition.TypedParts.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/logblazorwebapp/logblazorwebapp/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/grupo/OneDrive - Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/staticwebassets.upToDateCheck.txt
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/appsettings.Development.json
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/appsettings.json
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/BlazorDebugProxy/BrowserDebugHost.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/BlazorDebugProxy/BrowserDebugHost.runtimeconfig.json
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/BlazorDebugProxy/BrowserDebugProxy.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/BlazorDebugProxy/Microsoft.CodeAnalysis.CSharp.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/BlazorDebugProxy/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/BlazorDebugProxy/Microsoft.CodeAnalysis.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/BlazorDebugProxy/Microsoft.CodeAnalysis.Scripting.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/BlazorDebugProxy/Microsoft.FileFormats.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/BlazorDebugProxy/Microsoft.NET.WebAssembly.Webcil.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/BlazorDebugProxy/Microsoft.SymbolStore.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/BlazorDebugProxy/Newtonsoft.Json.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/LogBlazorWebApp.Client.staticwebassets.runtime.json
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/LogBlazorWebApp.Client.staticwebassets.endpoints.json
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/LogBlazorWebApp.staticwebassets.runtime.json
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/LogBlazorWebApp.staticwebassets.endpoints.json
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/LogBlazorWebApp
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/LogBlazorWebApp.deps.json
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/LogBlazorWebApp.runtimeconfig.json
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/LogBlazorWebApp.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/LogBlazorWebApp.pdb
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Azure.Core.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Azure.Identity.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Humanizer.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.AspNetCore.Components.WebAssembly.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.Build.Locator.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.Data.SqlClient.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.Extensions.Configuration.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Binder.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Json.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.Extensions.Diagnostics.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.Extensions.Diagnostics.Abstractions.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.Extensions.Hosting.Abstractions.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.Extensions.Http.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.FluentUI.AspNetCore.Components.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.FluentUI.AspNetCore.Components.Emoji.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.FluentUI.AspNetCore.Components.Icons.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.Identity.Client.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.JSInterop.WebAssembly.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.SqlServer.Server.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Microsoft.Win32.SystemEvents.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/Mono.TextTemplating.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/System.ClientModel.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/System.CodeDom.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/System.Composition.Convention.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/System.Composition.Hosting.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/System.Composition.Runtime.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/System.Composition.TypedParts.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/System.Configuration.ConfigurationManager.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/System.Drawing.Common.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/System.Memory.Data.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/System.Runtime.Caching.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/System.Security.Cryptography.ProtectedData.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/System.Security.Permissions.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/System.Windows.Extensions.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/LogBlazorWebApp.Client.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/bin/Debug/net9.0/LogBlazorWebApp.Client.pdb
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/LogBlazorWebApp.csproj.AssemblyReference.cache
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/LogBlazorWebApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/LogBlazorWebApp.AssemblyInfoInputs.cache
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/LogBlazorWebApp.AssemblyInfo.cs
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/LogBlazorWebApp.csproj.CoreCompileInputs.cache
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/LogBlazorWebApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/jsmodules/jsmodules.build.manifest.json
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/scopedcss/Components/Layout/MainLayout.razor.rz.scp.css
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/scopedcss/bundle/LogBlazorWebApp.styles.css
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/scopedcss/projectbundle/LogBlazorWebApp.bundle.scp.css
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/cdrmjjq1d6-dpoev2zj9b.gz
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/twd6d0wh4o-60czas7noz.gz
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/akzl5bxou0-p6kf5zqzit.gz
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/cq4bmj8gmb-zjzit57lox.gz
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/klh9ieqob8-xclpawj53c.gz
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/4jvn6qpxj5-u93i13xew3.gz
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/7g337ulk4n-iy34mpf72d.gz
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/6mwvvlkmgj-hi1gwvth64.gz
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/pfc9to5k3q-5pcucyxosc.gz
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/h0qxm5u0yy-01uvncfd48.gz
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/win2gt64sq-pu9hn1jugj.gz
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/ijuf810ucb-xp2f0e0rh3.gz
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/6o9gthdpke-psptt994gq.gz
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/tb98bamshq-g9dxtzlran.gz
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/ffdjjohsnc-mmp1yy7un5.gz
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/pn46o4hdgm-5wrroj4j54.gz
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/4sjayj892b-9fmja7pljs.gz
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/mm8wr5jb95-rgycuwl3sw.gz
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/wmgko3ir4p-kjm33rwg1a.gz
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/jq2jihf5fr-awzanx0pu8.gz
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/uslingtyva-rkj8st4k2x.gz
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/2b4v2q74ar-0b0bj86z40.gz
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/5eye7ha8pe-e5lgg05xwp.gz
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/fiqznfocyn-ki10xp5gks.gz
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/5dcvuemm5a-s9hcthfn4x.gz
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/sc7iw8bo2n-idf8r2y2gj.gz
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/sbcuig79xm-uxxx5b63uj.gz
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/is0nail857-b0dyrub9as.gz
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/6nn42apl8y-1dlotxxwer.gz
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/m1yjzwotev-f8c5bd5212.gz
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/ruk4ibgzyp-t5s4sbrbsi.gz
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/kwrall9b0s-wzv0u97glo.gz
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/m3ffqup1h6-kz8gc8cxma.gz
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/3emkb5z5ma-1cf9i7un7b.gz
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/4ndlbt3jd2-8d35l6r5r9.gz
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/tilk376lqw-o32v8r49vv.gz
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/2eo5x2mpjh-dwk6czdzfo.gz
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/033ahy0yvg-tbobd875u8.gz
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/compressed/1gz8alihoq-jflul1rg1t.gz
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/staticwebassets.build.json
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/staticwebassets.development.json
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/staticwebassets/msbuild.LogBlazorWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/staticwebassets/msbuild.LogBlazorWebApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/staticwebassets/msbuild.build.LogBlazorWebApp.props
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.LogBlazorWebApp.props
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.LogBlazorWebApp.props
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/staticwebassets.pack.json
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/LogBlazo.86D625A0.Up2Date
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/LogBlazorWebApp.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/refint/LogBlazorWebApp.dll
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/LogBlazorWebApp.pdb
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/LogBlazorWebApp.genruntimeconfig.cache
+/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/ref/LogBlazorWebApp.dll

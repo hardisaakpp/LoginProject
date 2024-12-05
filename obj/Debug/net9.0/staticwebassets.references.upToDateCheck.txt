@@ -1,0 +1,7 @@
+C:\Users\grupo\OneDrive - Dharma\LogBlazorWebApp\LogBlazorWebApp\LogBlazorWebApp.Client\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\grupo\OneDrive - Dharma\LogBlazorWebApp\LogBlazorWebApp\LogBlazorWebApp.Client\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\grupo\OneDrive - Dharma\LogBlazorWebApp\LogBlazorWebApp\LogBlazorWebApp.Client\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\grupo\OneDrive - Dharma\LogBlazorWebApp\LogBlazorWebApp\LogBlazorWebApp.Client\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\grupo\OneDrive - Dharma\LogBlazorWebApp\LogBlazorWebApp\LogBlazorWebApp.Client\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\grupo\OneDrive - Dharma\LogBlazorWebApp\LogBlazorWebApp\LogBlazorWebApp.Client\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\grupo\OneDrive - Dharma\LogBlazorWebApp\LogBlazorWebApp\LogBlazorWebApp.Client\obj\Debug\net9.0\staticwebassets.build.json

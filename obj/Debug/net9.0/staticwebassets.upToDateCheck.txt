@@ -1,0 +1,2 @@
+C:\Users\grupo\OneDrive - Dharma\LogBlazorWebApp\LogBlazorWebApp\LogBlazorWebApp\wwwroot\app.css
+wwwroot\app.css

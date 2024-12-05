@@ -1,0 +1,28 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/LogBlazorWebApp/app.8d35l6r5r9.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\app.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8d35l6r5r9"},{"Name":"integrity","Value":"sha256-TJ2KaT0OScdwSTMDA9DYj1LEFqWc5acOTxPYBpJXECI="},{"Name":"label","Value":"_content/LogBlazorWebApp/app.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3963"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022TJ2KaT0OScdwSTMDA9DYj1LEFqWc5acOTxPYBpJXECI=\u0022"},{"Name":"Last-Modified","Value":"Wed, 04 Dec 2024 19:37:22 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/LogBlazorWebApp/app.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\app.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-TJ2KaT0OScdwSTMDA9DYj1LEFqWc5acOTxPYBpJXECI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3963"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022TJ2KaT0OScdwSTMDA9DYj1LEFqWc5acOTxPYBpJXECI=\u0022"},{"Name":"Last-Modified","Value":"Wed, 04 Dec 2024 19:37:22 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/LogBlazorWebApp/LogBlazorWebApp.bundle.scp.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\LogBlazorWebApp.jflul1rg1t.bundle.scp.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Aa9F5Vvzv57TOyHNMiDT52GcYEjoN80U5luyPGp/hEc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"545"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Aa9F5Vvzv57TOyHNMiDT52GcYEjoN80U5luyPGp/hEc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 04 Dec 2024 23:44:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/LogBlazorWebApp/LogBlazorWebApp.jflul1rg1t.bundle.scp.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\LogBlazorWebApp.jflul1rg1t.bundle.scp.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"jflul1rg1t"},{"Name":"integrity","Value":"sha256-Aa9F5Vvzv57TOyHNMiDT52GcYEjoN80U5luyPGp/hEc="},{"Name":"label","Value":"_content/LogBlazorWebApp/LogBlazorWebApp.bundle.scp.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"545"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Aa9F5Vvzv57TOyHNMiDT52GcYEjoN80U5luyPGp/hEc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 04 Dec 2024 23:44:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

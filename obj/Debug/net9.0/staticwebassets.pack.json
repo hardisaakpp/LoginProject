@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/Debug/net9.0/scopedcss/projectbundle/LogBlazorWebApp.bundle.scp.css",
+      "PackagePath": "staticwebassets/LogBlazorWebApp.jflul1rg1t.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.LogBlazorWebApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.LogBlazorWebApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.build.LogBlazorWebApp.props",
+      "PackagePath": "build\\LogBlazorWebApp.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.LogBlazorWebApp.props",
+      "PackagePath": "buildMultiTargeting\\LogBlazorWebApp.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.LogBlazorWebApp.props",
+      "PackagePath": "buildTransitive\\LogBlazorWebApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

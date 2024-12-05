@@ -1,0 +1,204 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp.csproj": {}
+  },
+  "projects": {
+    "/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp.Client/LogBlazorWebApp.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp.Client/LogBlazorWebApp.Client.csproj",
+        "projectName": "LogBlazorWebApp.Client",
+        "projectPath": "/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp.Client/LogBlazorWebApp.Client.csproj",
+        "packagesPath": "/Users/isaacortiz/.nuget/packages/",
+        "outputPath": "/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp.Client/obj/",
+        "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
+        "configFilePaths": [
+          "/Users/isaacortiz/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        }
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.NET.ILLink.Tasks": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0-rc.2.24473.5, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NET.Sdk.WebAssembly.Pack": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0-rc.2.24473.5, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
+              "version": "[9.0.0-rc.2.24473.5, 9.0.0-rc.2.24473.5]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100-rc.2.24474.11/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "browser-wasm": {
+          "#import": []
+        }
+      }
+    },
+    "/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp.csproj",
+        "projectName": "LogBlazorWebApp",
+        "projectPath": "/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp.csproj",
+        "packagesPath": "/Users/isaacortiz/.nuget/packages/",
+        "outputPath": "/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp/obj/",
+        "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
+        "configFilePaths": [
+          "/Users/isaacortiz/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp.Client/LogBlazorWebApp.Client.csproj": {
+                "projectPath": "/Users/isaacortiz/Library/CloudStorage/OneDrive-Dharma/LogBlazorWebApp/LogBlazorWebApp/LogBlazorWebApp.Client/LogBlazorWebApp.Client.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        }
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.Server": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.FluentUI.AspNetCore.Components": {
+              "target": "Package",
+              "version": "[4.10.4, )"
+            },
+            "Microsoft.FluentUI.AspNetCore.Components.Emoji": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            },
+            "Microsoft.FluentUI.AspNetCore.Components.Icons": {
+              "target": "Package",
+              "version": "[4.10.4, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[8.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100-rc.2.24474.11/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
